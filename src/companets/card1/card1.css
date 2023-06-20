@@ -1,0 +1,14 @@
+.card {
+    max-width: 430px;
+    min-height: 254px;
+    border-radius: 14px;
+    position: relative;
+    cursor: pointer;
+    background-color: #fff;
+    transition: 0.3s linear;
+    box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+}
+.card:hover{
+    transition: 0.3s linear;
+    box-shadow: 0 0 16px rgba(60, 60, 60, 0.4);
+}
